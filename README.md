@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Do CAD pro Código
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto utiliza o humor como ferramenta para contar, de forma leve e criativa, os desafios enfrentados na transição de carreira da Arquitetura para a área de Tecnologia da Informação.
+A proposta nasceu da experiência pessoal de mudança de área e busca trazer representatividade, identificação e descontração para quem também está recomeçando profissionalmente — especialmente em um universo ainda cheio de estigmas e inseguranças, como é o da tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa D-IA para criar o vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Chat GPT" para criar um roteiro com humor sobre a transição de carreira de arquitetura para TI. E através do D-ID gerado um vídeo de 15 segundos com opções free.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a criação de uma minissérie com 3 vídeos curtos, de até 5 segundos cada, usando avatares gerados por IA (D-ID) para representar com humor os desafios da transição de carreira da Arquitetura para a Tecnologia.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Apesar de transmitir bem a proposta cômica e a ideia central do projeto, as expressões faciais dos avatares ainda não ficaram tão naturais ou realistas quanto o esperado — o que reforça que esse foi um primeiro teste com a ferramenta.
 
-### Exemplos e Insigths
+## 💭 Reflexão
+O projeto foi uma experimentação prática, parte de um processo de aprendizado sobre criação de conteúdo com inteligência artificial, e serviu como ponto de partida para explorar narrativas mais humanas e autênticas em formatos digitais.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Mais do que um produto final perfeito, a intenção foi testar possibilidades, entender limites das ferramentas e, principalmente, comunicar de forma leve e criativa uma experiência real de mudança profissional..
 
-## Links Interessantes
+## Link para o Vídeo
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://studio.d-id.com/share?id=bf0a0df9b9486f9aa262cd47628dc779&utm_source=copy
